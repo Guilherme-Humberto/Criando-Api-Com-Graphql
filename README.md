@@ -1,4 +1,4 @@
-# Cria-o-Api-Graphql
+# Criando-Api-Com-Graphql
 Criação e consultas de Api com GraphQL e inserção no banco de dados Mysql com knex.
 
 - [x] Nodejs
